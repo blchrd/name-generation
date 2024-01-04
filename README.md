@@ -4,6 +4,8 @@ Heavily inspired by [RinkWorks advanced name generator](http://www.rinkworks.com
 
 ## Usage
 
+To use this software, you need to install the Rust toolchains by following the instruction on the [official website](https://www.rust-lang.org/tools/install).
+
 ```
 cargo run
 # or
